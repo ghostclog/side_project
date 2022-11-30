@@ -113,4 +113,3 @@ insert into game(GMAE_INFO,CODE_TYPE,PUBLSH_DATE,KOR_NAME,ENG_NAME,MIN_SPEC,SEPC
 " 64비트 프로세서와 운영 체제가 필요합니다 운영체제: Windows® 7 / Windows® 8.1 / Windows® 10 64-bit (latest Service Pack) 프로세서: Intel® Core™ i3 3250 3.5 GHz or Intel Pentium G4560 3.5 GHz / AMD FX-4350 4.2 GHz 메모리: 6 GB RAM 그래픽: NVIDIA® GeForce® GTX 660 2GB or GTX 1050 2GB / AMD Radeon HD 7850 2GB 네트워크: 초고속 인터넷 연결 저장공간: 105 GB 사용 가능 공간 추가 사항: ",
 " 64비트 프로세서와 운영 체제가 필요합니다 운영체제: System Windows® 7 / Windows® 8.1 / Windows® 10 64-bit (latest Service Pack) 프로세서: Processor Intel® Core™ i5 2400 3.4 GHz or i5 7400 3.5 GHz / AMD Ryzen R5 1600X 3.6 GHz 메모리: 8 GB RAM 그래픽: NVIDIA® GeForce® GTX 970 4GB or GTX 1060 6GB / AMD R9 390 8GB Memory 8 GB RAM 네트워크: 초고속 인터넷 연결 저장공간: 105 GB 사용 가능 공간 추가 사항: ",0,29,30);
 
-
